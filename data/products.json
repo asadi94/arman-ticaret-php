@@ -1,0 +1,442 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "قفل صنعتی Atos",
+      "model": "KY13.1.5.61.1",
+      "brand": "atos",
+      "category": "kilit",
+      "images": [
+        "products/Atos/Kilit/Atos-KY13.1.5.61.1-1.jpeg",
+        "products/Atos/Kilit/Atos-KY13.1.5.61.1-2.jpeg",
+        "products/Atos/Kilit/Atos-KY13.1.5.61.1-3.jpeg"
+      ],
+      "description": "قفل صنعتی باکیفیت از برند Atos، مناسب برای کابینت‌های صنعتی و تجهیزات حساس.",
+      "specs": {
+        "برند": "Atos",
+        "مدل": "KY13.1.5.61.1",
+        "نوع": "قفل صنعتی",
+        "جنس بدنه": "فلز مقاوم",
+        "کاربرد": "کابینت‌های صنعتی، تابلوهای برق"
+      }
+    },
+    {
+      "id": 2,
+      "name": "لولا صنعتی Atos",
+      "model": "MG35.2.1.V2",
+      "brand": "atos",
+      "category": "mentese",
+      "images": [
+        "products/Atos/Mentese/Atos-MG35.2.1.V2-1.jpeg",
+        "products/Atos/Mentese/Atos-MG35.2.1.V2-2.jpeg",
+        "products/Atos/Mentese/Atos-MG35.2.1.V2-3.jpeg",
+        "products/Atos/Mentese/Atos-MG35.2.1.V2-4.jpeg"
+      ],
+      "description": "لولا صنعتی فوق‌مقاوم از برند Atos، مناسب برای درب‌های سنگین صنعتی و کابینت‌های فلزی.",
+      "specs": {
+        "برند": "Atos",
+        "مدل": "MG35.2.1.V2",
+        "نوع": "لولا صنعتی",
+        "جنس بدنه": "فلز سنگین",
+        "کاربرد": "درب‌های صنعتی، کابینت‌های فلزی"
+      }
+    },
+    {
+      "id": 3,
+      "name": "واشر صنعتی Emka",
+      "model": "1011-06 / 1011-05",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka-1011-06 & 1011-05.jpeg"
+      ],
+      "description": "واشر صنعتی باکیفیت از برند Emka، مناسب برای آب‌بندی و عایق‌کاری در تجهیزات صنعتی و الکتریکی.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1011-06 / 1011-05",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "آب‌بندی، عایق‌کاری"
+      }
+    },
+    {
+      "id": 4,
+      "name": "واشر صنعتی Emka",
+      "model": "1011-S154",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka-1011-S154 (1).jpeg",
+        "products/Emka/Conta/Emka-1011-S154 (2).jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل 1011-S154، مناسب برای آب‌بندی در تابلوهای برق و تجهیزات حساس صنعتی.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1011-S154",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "تابلوهای برق، تجهیزات حساس"
+      }
+    },
+    {
+      "id": 5,
+      "name": "واشر صنعتی Emka",
+      "model": "1003-11-N",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_1003-11-N.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل 1003-11-N، طراحی شده برای عایق‌کاری و محافظت از تجهیزات در برابر گرد و غبار و رطوبت.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1003-11-N",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "عایق‌کاری، محافظت در برابر گرد و غبار"
+      }
+    },
+    {
+      "id": 6,
+      "name": "واشر صنعتی Emka",
+      "model": "1011-05",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_1011-05.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل 1011-05، با کیفیت ساخت بالا و مقاومت عالی در برابر عوامل محیطی.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1011-05",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "آب‌بندی صنعتی"
+      }
+    },
+    {
+      "id": 7,
+      "name": "واشر صنعتی Emka",
+      "model": "1011-34-N",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_1011-34-N.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل 1011-34-N، مناسب برای آب‌بندی در صنایع الکترونیک و تجهیزات حساس.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1011-34-N",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "صنایع الکترونیک، تجهیزات حساس"
+      }
+    },
+    {
+      "id": 8,
+      "name": "واشر صنعتی Emka",
+      "model": "1011-34",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_1011-34.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل 1011-34، با طراحی دقیق برای عایق‌کاری و محافظت از تجهیزات صنعتی.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1011-34",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "عایق‌کاری صنعتی"
+      }
+    },
+    {
+      "id": 9,
+      "name": "واشر صنعتی Emka",
+      "model": "GM2450-N",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_GM2450-N.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل GM2450-N، مقاوم در برابر حرارت و مواد شیمیایی، مناسب برای صنایع سنگین.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "GM2450-N",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم به حرارت",
+        "کاربرد": "صنایع سنگین، مقاوم به مواد شیمیایی"
+      }
+    },
+    {
+      "id": 10,
+      "name": "واشر صنعتی Emka",
+      "model": "GM2540",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_GM2540.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل GM2540، با کیفیت ساخت عالی و عملکرد قابل اعتماد در شرایط سخت صنعتی.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "GM2540",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "شرایط سخت صنعتی"
+      }
+    },
+    {
+      "id": 11,
+      "name": "واشر صنعتی Emka",
+      "model": "GM2566",
+      "brand": "emka",
+      "category": "conta",
+      "images": [
+        "products/Emka/Conta/Emka_GM2566.jpeg"
+      ],
+      "description": "واشر صنعتی Emka مدل GM2566، طراحی شده برای آب‌بندی و عایق‌کاری در تجهیزات صنعتی پیشرفته.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "GM2566",
+        "نوع": "واشر صنعتی",
+        "جنس": "لاستیک مقاوم",
+        "کاربرد": "تجهیزات صنعتی پیشرفته"
+      }
+    },
+    {
+      "id": 12,
+      "name": "قفل صنعتی Emka",
+      "model": "1031-U12",
+      "brand": "emka",
+      "category": "kilit",
+      "images": [
+        "products/Emka/Kilit/Emka-1031-U12-3.jpeg",
+        "products/Emka/Kilit/Emka-1031-U12.jpeg"
+      ],
+      "description": "قفل صنعتی Emka مدل 1031-U12، با مکانیزم قفل‌گذاری ایمن و بدنه مقاوم.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1031-U12",
+        "نوع": "قفل صنعتی",
+        "جنس بدنه": "فلز مقاوم",
+        "کاربرد": "کابینت‌های صنعتی، تابلوهای برق"
+      }
+    },
+    {
+      "id": 13,
+      "name": "قفل صنعتی Emka",
+      "model": "1091-U143",
+      "brand": "emka",
+      "category": "kilit",
+      "images": [
+        "products/Emka/Kilit/Emka-1091-U143.jpeg"
+      ],
+      "description": "قفل صنعتی Emka مدل 1091-U143، طراحی شده برای امنیت بالا در تجهیزات حساس صنعتی و الکتریکی.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1091-U143",
+        "نوع": "قفل صنعتی",
+        "جنس بدنه": "فلز مقاوم",
+        "کاربرد": "امنیت بالا، تجهیزات حساس"
+      }
+    },
+    {
+      "id": 14,
+      "name": "قفل صنعتی Emka",
+      "model": "1130-U2",
+      "brand": "emka",
+      "category": "kilit",
+      "images": [
+        "products/Emka/Kilit/Emka-1130-U2-1.jpeg",
+        "products/Emka/Kilit/Emka-1130-U2-2.jpeg",
+        "products/Emka/Kilit/Emka-1130-U2-3.jpeg"
+      ],
+      "description": "قفل صنعتی Emka مدل 1130-U2، با کیفیت ساخت بالا و مکانیزم قفل‌گذاری پیشرفته.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1130-U2",
+        "نوع": "قفل صنعتی",
+        "جنس بدنه": "فلز مقاوم",
+        "کاربرد": "صنایع مختلف"
+      }
+    },
+    {
+      "id": 15,
+      "name": "قفل صنعتی Emka",
+      "model": "1150-SU-61",
+      "brand": "emka",
+      "category": "kilit",
+      "images": [
+        "products/Emka/Kilit/Emka-1150-SU-61.jpeg"
+      ],
+      "description": "قفل صنعتی Emka مدل 1150-SU-61، با طراحی خاص و عملکرد مطمئن، مناسب برای تجهیزات صنعتی حساس.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "1150-SU-61",
+        "نوع": "قفل صنعتی",
+        "جنس بدنه": "فلز مقاوم",
+        "کاربرد": "تجهیزات صنعتی حساس"
+      }
+    },
+    {
+      "id": 21,
+      "name": "قفل صنعتی Emka",
+      "model": "Emka-Kilit",
+      "brand": "emka",
+      "category": "kilit",
+      "images": [
+        "products/Emka/Kilit/Emka-Kilit-2.jpeg",
+        "products/Emka/Kilit/Emka-Kilit.jpeg",
+        "products/Emka/Kilit/IMG_8039.jpeg",
+        "products/Emka/Kilit/KILIT2.jpeg",
+        "products/Emka/Kilit/KILIT3.jpeg",
+        "products/Emka/Kilit/Kiliti1.jpeg"
+      ],
+      "description": "قفل صنعتی Emka با کیفیت ساخت بالا، مناسب برای کابینت‌های صنعتی، تابلوهای برق و تجهیزات حساس.",
+      "specs": {
+        "برند": "Emka",
+        "مدل": "Emka-Kilit",
+        "نوع": "قفل صنعتی",
+        "جنس بدنه": "فلز مقاوم",
+        "کاربرد": "کابینت‌های صنعتی، تابلوهای برق"
+      }
+    },
+    {
+      "id": 16,
+      "name": "دمپر صنعتی Siemens",
+      "model": "GCA166.1E",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-GCA166.1E-1.jpeg",
+        "products/Siemens/Damper/SIEMENS-GCA166.1E-2.jpeg",
+        "products/Siemens/Damper/SIEMENS-GCA166.1E-3.jpeg"
+      ],
+      "description": "دمپر صنعتی Siemens مدل GCA166.1E، برای کنترل جریان هوا در سیستم‌های تهویه و HVAC با دقت بالا.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "GCA166.1E",
+        "نوع": "دمپر صنعتی",
+        "کاربرد": "سیستم‌های تهویه و HVAC",
+        "ویژگی": "دقت بالا"
+      }
+    },
+    {
+      "id": 17,
+      "name": "دمپر صنعتی Siemens",
+      "model": "GGA126.1E.10",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-GGA126.1E.10-1.jpeg",
+        "products/Siemens/Damper/SIEMENS-GGA126.1E.10-2.jpeg",
+        "products/Siemens/Damper/SIEMENS-GGA126.1E.10-3.jpeg",
+        "products/Siemens/Damper/SIEMENS-GGA126.1E.10-4.jpeg",
+        "products/Siemens/Damper/SIEMENS-GGA126.1E.10-5.jpeg"
+      ],
+      "description": "دمپر صنعتی Siemens مدل GGA126.1E.10، با عملکرد دقیق و قابل اعتماد برای سیستم‌های کنترل هوای صنعتی.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "GGA126.1E.10",
+        "نوع": "دمپر صنعتی",
+        "کاربرد": "سیستم‌های کنترل هوای صنعتی",
+        "ویژگی": "عملکرد دقیق و قابل اعتماد"
+      }
+    },
+    {
+      "id": 18,
+      "name": "دمپر صنعتی Siemens",
+      "model": "GMA126.1E",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-GMA126.1E-1.jpeg",
+        "products/Siemens/Damper/SIEMENS-GMA126.1E-2.jpeg"
+      ],
+      "description": "دمپر صنعتی Siemens مدل GMA126.1E، مناسب برای سیستم‌های تهویه و کنترل جریان هوا با دقت بالا.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "GMA126.1E",
+        "نوع": "دمپر صنعتی",
+        "کاربرد": "سیستم‌های تهویه و کنترل جریان هوا",
+        "ویژگی": "دقت بالا"
+      }
+    },
+    {
+      "id": 19,
+      "name": "دمپر صنعتی Siemens",
+      "model": "GNA326.1E.12",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-GNA326.1E.12-1.jpeg",
+        "products/Siemens/Damper/SIEMENS-GNA326.1E.12-2.jpeg",
+        "products/Siemens/Damper/SIEMENS-GNA326.1E.12-3.jpeg",
+        "products/Siemens/Damper/SIEMENS-GNA326.1E.12-4.jpeg"
+      ],
+      "description": "دمپر صنعتی Siemens مدل GNA326.1E.12، با کیفیت ساخت عالی و عملکرد قابل اعتماد در سیستم‌های HVAC.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "GNA326.1E.12",
+        "نوع": "دمپر صنعتی",
+        "کاربرد": "سیستم‌های HVAC",
+        "ویژگی": "کیفیت ساخت عالی"
+      }
+    },
+    {
+      "id": 20,
+      "name": "سنسور دما Siemens",
+      "model": "QFA2060D",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-QFA2060D-1.jpeg",
+        "products/Siemens/Damper/SIEMENS-QFA2060D-2.jpeg",
+        "products/Siemens/Damper/SIEMENS-QFA2060D-3.jpeg"
+      ],
+      "description": "سنسور دما Siemens مدل QFA2060D، برای اندازه‌گیری دقیق دما در سیستم‌های تهویه و کنترل هوای صنعتی.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "QFA2060D",
+        "نوع": "سنسور دما",
+        "کاربرد": "سیستم‌های تهویه و کنترل هوا",
+        "ویژگی": "اندازه‌گیری دقیق دما"
+      }
+    },
+    {
+      "id": 22,
+      "name": "دمپر صنعتی Siemens",
+      "model": "GMA-26.1E",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-GMA-26.1E-3.jpeg"
+      ],
+      "description": "دمپر صنعتی Siemens مدل GMA-26.1E، مناسب برای سیستم‌های تهویه و کنترل جریان هوا.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "GMA-26.1E",
+        "نوع": "دمپر صنعتی",
+        "کاربرد": "سیستم‌های تهویه و کنترل جریان هوا"
+      }
+    },
+    {
+      "id": 23,
+      "name": "دمپر صنعتی Siemens",
+      "model": "SIEMENS-Damper",
+      "brand": "siemens",
+      "category": "damper",
+      "images": [
+        "products/Siemens/Damper/SIEMENS-Damper.jpeg"
+      ],
+      "description": "دمپر صنعتی Siemens با کیفیت ساخت عالی، مناسب برای سیستم‌های تهویه و کنترل هوای صنعتی.",
+      "specs": {
+        "برند": "Siemens",
+        "مدل": "SIEMENS-Damper",
+        "نوع": "دمپر صنعتی",
+        "کاربرد": "سیستم‌های تهویه و کنترل هوای صنعتی"
+      }
+    }
+  ]
+}
