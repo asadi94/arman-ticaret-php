@@ -6,8 +6,8 @@
 // ==========================================
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'armanticaret');
-define('DB_USER', 'root');        
-define('DB_PASS', '123');            
+define('DB_USER', 'u2811866_arman_tejarat_admin');        
+define('DB_PASS', 'xi{8$7kMeBO{EXH^');            
 
 // ==========================================
 // تنظیمات CORS
