@@ -1,22 +1,31 @@
 <?php
+// api/config.php - تنظیمات دیتابیس
 
+// ==========================================
+// تنظیمات اتصال به دیتابیس
+// ==========================================
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'arman_tejarat');
-define('DB_USER', 'u2811866_arman_tejarat_admin');      
-define('DB_PASS', 'xi{8$7kMeBO{EXH^');       
+define('DB_NAME', 'armanticaret');
+define('DB_USER', 'root');        
+define('DB_PASS', '123');            
 
+// ==========================================
+// تنظیمات CORS
+// ==========================================
 header('Content-Type: application/json; charset=utf-8');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS');
 header('Access-Control-Allow-Headers: Content-Type, Authorization');
 
-
+// پاسخ به درخواست‌های OPTIONS (preflight)
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     http_response_code(200);
     exit();
 }
 
-
+// ==========================================
+// توابع کمکی
+// ==========================================
 
 function db_connect() {
     try {
